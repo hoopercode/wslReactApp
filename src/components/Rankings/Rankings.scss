@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand+SC&display=swap');
+
+.rankings {
+  width: 75vw;
+  display: flex;
+  // flex-direction: row;
+  // align-items: center;
+  // justify-content: center;
+  // text-align: center;
+  margin-top: 100px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  gap: 10px 20px;
+  margin-left: 20vw;
+
+  &__header {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 60vh;
+    text-align: center;
+    font-family: 'Patrick Hand SC', cursive;
+
+  }
+}
+
+
+.surfer {
+  background-color: #34568B;
+  border-radius: 20px;
+  height: 50vh;
+  margin-bottom: 50px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-family: 'Patrick Hand SC', cursive;
+
+  &__name {
+    font-weight: 900;
+
+  }
+}
+
+img {
+  height: 20vh;
+  width: auto;
+}
