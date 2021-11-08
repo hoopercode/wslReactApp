@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/wslReactApp/static/css/main.787ebccd.chunk.css",
+    "main.js": "/wslReactApp/static/js/main.50e16bd5.chunk.js",
+    "main.js.map": "/wslReactApp/static/js/main.50e16bd5.chunk.js.map",
+    "runtime-main.js": "/wslReactApp/static/js/runtime-main.403f9543.js",
+    "runtime-main.js.map": "/wslReactApp/static/js/runtime-main.403f9543.js.map",
+    "static/js/2.a0a0bf25.chunk.js": "/wslReactApp/static/js/2.a0a0bf25.chunk.js",
+    "static/js/2.a0a0bf25.chunk.js.map": "/wslReactApp/static/js/2.a0a0bf25.chunk.js.map",
+    "static/js/3.7ec3a876.chunk.js": "/wslReactApp/static/js/3.7ec3a876.chunk.js",
+    "static/js/3.7ec3a876.chunk.js.map": "/wslReactApp/static/js/3.7ec3a876.chunk.js.map",
+    "index.html": "/wslReactApp/index.html",
+    "static/css/main.787ebccd.chunk.css.map": "/wslReactApp/static/css/main.787ebccd.chunk.css.map",
+    "static/js/2.a0a0bf25.chunk.js.LICENSE.txt": "/wslReactApp/static/js/2.a0a0bf25.chunk.js.LICENSE.txt",
+    "static/media/WorldSurf.eb7d7578.png": "/wslReactApp/static/media/WorldSurf.eb7d7578.png",
+    "static/media/discovery.d2ebb410.jpg": "/wslReactApp/static/media/discovery.d2ebb410.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.403f9543.js",
+    "static/js/2.a0a0bf25.chunk.js",
+    "static/css/main.787ebccd.chunk.css",
+    "static/js/main.50e16bd5.chunk.js"
+  ]
+}
